@@ -4,10 +4,7 @@ categories: [CTF]
 tags: [CTF, Writeup]
 ---
 
-
-# Wirteup - Junior 0ctf 2017
-
-##PWN
+## PWN
 
 ### seabreeze's stack
 
